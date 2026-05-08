@@ -1,25 +1,31 @@
-# Guia de Estudo - Entrevista Java Developer (Klaillton Santos)
+# Guia de Estudos - Trilha Java
 
-Foco: Preparação para vagas Java (ING, Santander, SIBS, etc.) com ênfase em experiência prática do CV.
+Repositório com materiais de revisão para entrevistas e preparação técnica em Java.
 
-## Plano de Estudo (4-6 semanas)
+## Objetivo
 
-- **Semana 1-2**: Módulos 1-4 (Java Core + Qualidade)
-- **Semana 3**: Módulos 5-6 (BD + APIs)
-- **Semana 4**: Módulos 7-8 (Servidores + DevOps)
-- Pratique 1 hora/dia de coding + gravação da apresentação.
+Organizar uma trilha prática de estudos cobrindo fundamentos, arquitetura e ferramentas comuns no ecossistema Java.
 
-## Apresentação (5-7 min)
+## Plano Sugerido (4-6 semanas)
 
-Falar apenas como Developer:
+- **Semanas 1-2**: Fundamentos Java e qualidade de código.
+- **Semana 3**: Banco de dados e APIs.
+- **Semana 4**: Frameworks Java enterprise e DevOps.
+- **Prática contínua**: 1 hora/dia de exercícios de código e revisão de conceitos.
 
-- SINTESE: Java Web + JSF + Hibernate + SVN (fatura eletrônica).
-- UNOPAR: Sistema de locação de veículos (Java 8 + Thymeleaf + Maven).
-- SIBS: Manutenção Nearshore (EJB, PrimeFaces, Wildfly, DB2).
-- Santander: Spring Boot, Angular, PowerShell, Docker.
-- ING: Java 17 + EJB + Hibernate + Azure + Docker (atual).
+## Estrutura
 
-**Por que novo projeto?** Busco desafios maiores em ambiente cloud-native e maior impacto técnico.
-**Por que EUIPO?** Interesse em projetos internacionais + uso de Java enterprise em escala europeia.
+- `MODULO-01-JAVA-CORE`: fundamentos da linguagem e tópicos avançados.
+- `MODULO-02-ESTRUTURAS-DADOS`: estruturas e algoritmos aplicados.
+- `MODULO-03-OOP-CLEAN-CODE`: orientação a objetos e boas práticas.
+- `MODULO-05-BD`: modelagem e consultas SQL.
+- `MODULO-06-APIS`: criação e consumo de APIs.
+- `MODULO-07-EJB-SPRING`: desenvolvimento corporativo em Java.
+- `MODULO-08-DEVOPS`: integração, entrega e operação.
 
-**Perguntas a fazer:** 2-3 técnicas sobre stack do time.
+## Sugestão para Simulação de Entrevista
+
+- Prepare uma apresentação técnica de 5 a 7 minutos.
+- Foque em problemas resolvidos, decisões de arquitetura e resultados.
+- Demonstre familiaridade com o ciclo completo de desenvolvimento.
+- Tenha 2 a 3 perguntas técnicas sobre stack, processos e desafios do time.
