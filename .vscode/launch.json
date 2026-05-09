@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "GerenciadorDeEstoque",
+      "request": "launch",
+      "mainClass": "GerenciadorDeEstoque",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "GerenciadorDeNomes",
+      "request": "launch",
+      "mainClass": "GerenciadorDeNomes",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-VirtualthreadsApplication<virtualthreads>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.klaillton.virtualthreads.VirtualthreadsApplication",
+      "projectName": "virtualthreads",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
