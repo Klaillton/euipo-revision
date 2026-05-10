@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PerformanceApplication",
+      "request": "launch",
+      "mainClass": "com.arraylistvslinkedlist.performance.PerformanceApplication",
+      "projectName": "performance"
+    },
+    {
+      "type": "java",
       "name": "GerenciadorDeEstoque",
       "request": "launch",
       "mainClass": "GerenciadorDeEstoque",
